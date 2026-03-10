@@ -71,5 +71,17 @@ lab01
             + trường hợp 1 : cùng hàng 
             + trường hợp 2 : cùng cột  
             + trường hợp 3 : khác hàng khác cột
+  TASK 2.5 
+    Ý tưởng thực hiện thuật toán Vigenère Cipher
+        bước 1: chuẩn hóa dữ liệu đầu vào 
+             - Trước khi thực hiện mã hóa hoặc giải mã cần chuẩn hóa dữ liệu : 
+                 + chuyển toàn bộ ký tự về chữ hoa
+                 +loại bỏ các ký tự không phải alphabet ( số , dấu cách , ký tự đặc biệt )
+        bước 2: Tạo chuỗi khóa lặp lại 
+            - Vì khóa có độ dài ngắn hơn bản rõ nên cần lặp lại khóa cho đến khi bằng độ dài plaintext
+        bước 3: mã hóa(Encryption)
+            - sử dụng công thức : Ci​=(Pi​+Ki​)mod26
+        bước 4: Giải mã(Decryotion)
+            - sử dụng công thức : Pi​=(Ci​−Ki​+26)mod26
          
 
