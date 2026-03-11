@@ -85,3 +85,35 @@ lab01
             - sử dụng công thức : Pi​=(Ci​−Ki​+26)mod26
          
 
+  Task 2.7 
+    ý tưởng thuật toán : 
+        em chọn thuật toán Affine Cipher
+        - đây là một phương pháp mã hóa thay thế trong mật mã cổ điển . 
+        - biểu diễn các chữ cái dưới dạng chữ số 
+        - công thức mã hóa : C = (a*p + b) mod 26
+         với : p :  là ký tự bản rõ 
+               c : ký tự bản mã 
+               a,b :  khóa 
+               điều kiện để tồn tại thuật toán là : gcd(a,26) = 1 để tồn tại nghịch đảo 
+        - công thức  giải mã : p = a⁻¹ (C - b) mod 26
+
+    - ý tưởng code : 
+         bước 1 : chuẩn hóa dữ liệu 
+            + chuyển tất cả kí tự về chữ hoa 
+            + chỉ xử lý chữ cái từ A -> Z 
+            + bỏ các kí tự khác 
+        bước 2 : kiểm tra khóa 
+            + kiểm tra điệu kiện gcd(a,26) = 1
+            +nếu không thỏa mãn điều kiện không thể giải mã 
+        bước 3 :viết hàm  mã hóa 
+            + duyệt từng kí tự và áp dụng công thức mã hóa  C = (a*p + b) mod 26
+        bước 4: viết hàm giải mã 
+            + áp dụng công thức giải mã p = a⁻¹ (C - b) mod
+        bước 5: hiển thị kết quả : 
+            chương trình cho phép : 
+             1: giải mã 
+             2: mã hóa 
+            người dùng nhập 
+             1:plaintext/ciphertext
+             2:a
+             3:b
