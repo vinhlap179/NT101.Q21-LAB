@@ -1,0 +1,4 @@
+﻿  LAB1-BAI2.6.cpp
+D:\UIT\An toàn mạng máy tính\Thực hành lab\LAB01\NT101.Q21-LAB\LAB01\LAB1-BAI2.6\LAB1-BAI2.6.cpp(30,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\UIT\An toàn mạng máy tính\Thực hành lab\LAB01\NT101.Q21-LAB\LAB01\LAB1-BAI2.6\LAB1-BAI2.6.cpp(108,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LAB1-BAI2.6.vcxproj -> D:\UIT\An toàn mạng máy tính\Thực hành lab\LAB01\NT101.Q21-LAB\LAB01\x64\Debug\LAB1-BAI2.6.exe

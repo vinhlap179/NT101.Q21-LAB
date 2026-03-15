@@ -12,7 +12,7 @@
 
 using namespace std;
 
-const int HILLS = 5;// boi vi la thuat toan leo doi nen co the thay doi so luong HILLS neu giai ma khong ra 
+const int HILLS = 50;// boi vi la thuat toan leo doi nen co the thay doi so luong HILLS neu giai ma khong ra 
 const int STAIRS_PER_HILL = 5000;
 
 // Load trigrams tu file txt co san 
