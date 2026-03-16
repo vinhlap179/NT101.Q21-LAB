@@ -1,2 +1,3 @@
-﻿  LAB1-BAI2.2.cpp
-  LAB1-BAI2.2.vcxproj -> D:\UIT\An toàn mạng máy tính\Thực hành lab\LAB01\NT101.Q21-LAB\LAB01\x64\Debug\LAB1-BAI2.2.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LAB1-BAI2.2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LAB1-BAI2.2.cpp
+  LAB1-BAI2.2.vcxproj -> D:\UIT\An toàn mạng máy tính\Thực hành lab\LAB01\NT101.Q21-LAB\LAB01\x64\Debug\LAB1-BAI2.2-BAI2.3.exe

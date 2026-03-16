@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59D0BFDA-60C8-4AB5-B388-D62388FAC154}|LAB1-BAI2.6\\LAB1-BAI2.6.vcxproj|D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB1-BAI2.6\\LAB1-BAI2.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59D0BFDA-60C8-4AB5-B388-D62388FAC154}|LAB1-BAI2.6\\LAB1-BAI2.6.vcxproj|solutionrelative:LAB1-BAI2.6\\LAB1-BAI2.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9785312B-68D6-4FA2-B7DF-3CD295C14541}|LAB1-BAI2.2\\LAB1-BAI2.2.vcxproj|D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB1-BAI2.2\\LAB1-BAI2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9785312B-68D6-4FA2-B7DF-3CD295C14541}|LAB1-BAI2.2\\LAB1-BAI2.2.vcxproj|solutionrelative:LAB1-BAI2.2\\LAB1-BAI2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinhl\\Downloads\\Monoalphabetic-Cipher-Decoder-master\\Monoalphabetic-Cipher-Decoder-master\\Decipher.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{9785312B-68D6-4FA2-B7DF-3CD295C14541}|LAB1-BAI2.2-BAI2.3\\LAB1-BAI2.2.vcxproj|D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB1-BAI2.2-BAI2.3\\LAB1-BAI2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9785312B-68D6-4FA2-B7DF-3CD295C14541}|LAB1-BAI2.2-BAI2.3\\LAB1-BAI2.2.vcxproj|solutionrelative:LAB1-BAI2.2-BAI2.3\\LAB1-BAI2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAA97149-852A-4507-A082-FF491DB69C63}|LAB01\\LAB01.vcxproj|D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB01\\LAB01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FAA97149-852A-4507-A082-FF491DB69C63}|LAB01\\LAB01.vcxproj|solutionrelative:LAB01\\LAB01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D0BFDA-60C8-4AB5-B388-D62388FAC154}|LAB1-BAI2.6\\LAB1-BAI2.6.vcxproj|D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB1-BAI2.6\\LAB1-BAI2.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59D0BFDA-60C8-4AB5-B388-D62388FAC154}|LAB1-BAI2.6\\LAB1-BAI2.6.vcxproj|solutionrelative:LAB1-BAI2.6\\LAB1-BAI2.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinhl\\Downloads\\Monoalphabetic-Cipher-Decoder-master\\Monoalphabetic-Cipher-Decoder-master\\Decipher.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +30,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LAB1-BAI2.2.cpp",
+              "DocumentMoniker": "D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB1-BAI2.2-BAI2.3\\LAB1-BAI2.2.cpp",
+              "RelativeDocumentMoniker": "LAB1-BAI2.2-BAI2.3\\LAB1-BAI2.2.cpp",
+              "ToolTip": "D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB1-BAI2.2-BAI2.3\\LAB1-BAI2.2.cpp*",
+              "RelativeToolTip": "LAB1-BAI2.2-BAI2.3\\LAB1-BAI2.2.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-16T00:30:23.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LAB1-BAI2.6.cpp",
               "DocumentMoniker": "D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB1-BAI2.6\\LAB1-BAI2.6.cpp",
               "RelativeDocumentMoniker": "LAB1-BAI2.6\\LAB1-BAI2.6.cpp",
               "ToolTip": "D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB1-BAI2.6\\LAB1-BAI2.6.cpp",
               "RelativeToolTip": "LAB1-BAI2.6\\LAB1-BAI2.6.cpp",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAtwDUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-10T11:52:48.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Decipher.py",
               "DocumentMoniker": "C:\\Users\\vinhl\\Downloads\\Monoalphabetic-Cipher-Decoder-master\\Monoalphabetic-Cipher-Decoder-master\\Decipher.py",
               "ToolTip": "C:\\Users\\vinhl\\Downloads\\Monoalphabetic-Cipher-Decoder-master\\Monoalphabetic-Cipher-Decoder-master\\Decipher.py",
@@ -53,19 +66,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LAB1-BAI2.2.cpp",
-              "DocumentMoniker": "D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB1-BAI2.2\\LAB1-BAI2.2.cpp",
-              "RelativeDocumentMoniker": "LAB1-BAI2.2\\LAB1-BAI2.2.cpp",
-              "ToolTip": "D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB1-BAI2.2\\LAB1-BAI2.2.cpp",
-              "RelativeToolTip": "LAB1-BAI2.2\\LAB1-BAI2.2.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-09T09:55:59.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "LAB01.cpp",
               "DocumentMoniker": "D:\\UIT\\An to\u00E0n m\u1EA1ng m\u00E1y t\u00EDnh\\Th\u1EF1c h\u00E0nh lab\\LAB01\\NT101.Q21-LAB\\LAB01\\LAB01\\LAB01.cpp",
               "RelativeDocumentMoniker": "LAB01\\LAB01.cpp",
@@ -73,7 +73,8 @@
               "RelativeToolTip": "LAB01\\LAB01.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-05T01:56:52.278Z"
+              "WhenOpened": "2026-03-05T01:56:52.278Z",
+              "EditorCaption": ""
             }
           ]
         }
